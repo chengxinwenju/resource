@@ -1,0 +1,9 @@
+﻿引用的pdfjs 版本信息
+
+pdfjs-2.1.266
+
+console.log('PDF ' + pdfDocument.fingerprint + ' [' + info.PDFFormatVersion + ' ' + (info.Producer || '-').trim() + ' / ' + (info.Creator || '-').trim() + ']' + ' (PDF.js: ' + (_pdfjsLib.version || '-') + (_app_options.AppOptions.get('enableWebGL') ? ' [WebGL]' : '') + ')');
+
+PDF d3171f926cf7490a8c56ba60155f4cba [1.7 - / WPS 演示] (PDF.js: 2.1.266)
+
+viewer.js  1539
